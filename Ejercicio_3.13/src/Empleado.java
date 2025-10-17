@@ -57,5 +57,4 @@ public class Empleado {
     public double getSalarioAnual() {
         return this.salarioMensual * 12;
     }
-
 }
