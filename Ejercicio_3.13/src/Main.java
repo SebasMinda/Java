@@ -6,7 +6,7 @@
  * Estudiante: Pablo Fernández, Sebastián Minda
  * Fecha: 14/10/2025
  * Tercer semestre
- * Tarea 3.13 - La clase Empleado
+ * Ejercicio 3.13 - La clase Empleado
  */
 
 import javax.swing.*;

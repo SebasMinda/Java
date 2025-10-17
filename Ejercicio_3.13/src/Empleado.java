@@ -1,3 +1,14 @@
+/**Universidad de las Américas
+ * Facultad de Ingeniería y Ciencias Aplicadas
+ * Carrera: Ingeniería de Software
+ * Programación Orientada a Objetos - Programación II
+ * Profesor: Victor Gómez
+ * Estudiante: Pablo Fernández, Sebastián Minda
+ * Fecha: 14/10/2025
+ * Tercer semestre
+ * Ejercicio 3.13 - La clase Empleado
+ */
+
 public class Empleado {
     private String primerNombre;
     private String primerApellido;
