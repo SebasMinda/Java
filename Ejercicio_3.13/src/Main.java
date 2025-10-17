@@ -1,3 +1,14 @@
+/**Universidad de las Américas
+ * Facultad de Ingeniería y Ciencias Aplicadas
+ * Carrera: Ingeniería de Software
+ * Programación Orientada a Objetos - Programación II
+ * Profesor: Victor Gómez
+ * Estudiante: Pablo Fernández, Sebastián Minda
+ * Fecha: 14/10/2025
+ * Tercer semestre
+ * Tarea 3.13 - La clase Empleado
+ */
+
 import javax.swing.*;
 import java.util.Scanner;
 
@@ -56,7 +67,7 @@ public class Main {
 
         /** Da un aumento del 10% a cada empleado */
         System.out.println("Salario con un aumento del 10%:");
-        empleado1.darAumento(10);
+        empleado1.darAumento(10); /** Este 10 puede cambiar ya que no se le hizo fijo como constante */
         empleado2.darAumento(10);
         System.out.println("El aumento se ha aplicado de manera exitosa.");
         System.out.println("\n");
