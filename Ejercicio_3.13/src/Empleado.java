@@ -56,5 +56,6 @@ public class Empleado {
     /** Calcula y devuelve el salario anual del empleado y retorna el salario mensual multiplicado por 12 (meses)*/
     public double getSalarioAnual() {
         return this.salarioMensual * 12;
-    } //prueba
+    }
+
 }

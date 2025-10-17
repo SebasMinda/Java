@@ -54,7 +54,7 @@ public class Main {
 
         System.out.println("\n");
 
-        /** Da un aumento del 10% a cada empleado */
+        /** Da un aumento del 10% a cada empleado o de cualquier manera*/
         System.out.println("Salario con un aumento del 10%:");
         empleado1.darAumento(10);
         empleado2.darAumento(10);
